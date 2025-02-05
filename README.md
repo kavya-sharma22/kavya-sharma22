@@ -1,6 +1,5 @@
 <h1 align="center">
- [ <img src="https://your-image-url.com/banner.jpg" alt="Banner Image" width="100%" />](https://github.com/kavya-sharma-22/kavya-sharma-22/raw/main/image.jpg
-)
+  <img src="https://github.com/kavya-sharma-22/kavya-sharma-22/raw/main/image.jpg" alt="Banner Image" width="100%" />
 </h1>
 <h3 align="center">I'm Kavya Sharma</h3>
 <h3 align="center">A passionate Full Stack developer from India</h3>
@@ -24,7 +23,7 @@
   <a href="https://linkedin.com/in/kavya-22sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavya-22sharma" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/kavyasharmaa2205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kavyasharmaa2205" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/kavya_sharma22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kavya_sharma22" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/kavyasharma22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kavyasharma22" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/kavyasharma22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kavya-sharma22" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
